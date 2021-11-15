@@ -1,0 +1,16 @@
+/home/dave/team/test_ws/install/client/share/client/environment/pythonpath.sh
+/home/dave/team/test_ws/install/client/lib/python3.6/site-packages/src/client_node.py
+/home/dave/team/test_ws/install/client/lib/python3.6/site-packages/src/__init__.py
+/home/dave/team/test_ws/install/client/lib/client/client_node.py
+/home/dave/team/test_ws/install/client/share/client/launch/client_node.launch.py
+/home/dave/team/test_ws/install/client/share/ament_index/resource_index/package_run_dependencies/client
+/home/dave/team/test_ws/install/client/share/ament_index/resource_index/parent_prefix_path/client
+/home/dave/team/test_ws/install/client/share/client/environment/ament_prefix_path.sh
+/home/dave/team/test_ws/install/client/share/client/environment/path.sh
+/home/dave/team/test_ws/install/client/share/client/local_setup.bash
+/home/dave/team/test_ws/install/client/share/client/local_setup.sh
+/home/dave/team/test_ws/install/client/share/client/local_setup.zsh
+/home/dave/team/test_ws/install/client/share/ament_index/resource_index/packages/client
+/home/dave/team/test_ws/install/client/share/client/cmake/clientConfig.cmake
+/home/dave/team/test_ws/install/client/share/client/cmake/clientConfig-version.cmake
+/home/dave/team/test_ws/install/client/share/client/package.xml

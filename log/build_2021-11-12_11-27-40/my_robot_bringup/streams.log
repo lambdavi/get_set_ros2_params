@@ -1,0 +1,73 @@
+[0.021s] Invoking command in '/home/dave/team/test_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake /home/dave/team/test_ws/src/my_robot_bringup -DCMAKE_INSTALL_PREFIX=/home/dave/team/test_ws/install/my_robot_bringup
+[0.085s] -- The C compiler identification is GNU 7.5.0
+[0.159s] -- The CXX compiler identification is GNU 7.5.0
+[0.165s] -- Check for working C compiler: /usr/bin/cc
+[0.240s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.240s] -- Detecting C compiler ABI info
+[0.313s] -- Detecting C compiler ABI info - done
+[0.317s] -- Detecting C compile features
+[0.536s] -- Detecting C compile features - done
+[0.538s] -- Check for working CXX compiler: /usr/bin/c++
+[0.631s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.631s] -- Detecting CXX compiler ABI info
+[0.713s] -- Detecting CXX compiler ABI info - done
+[0.718s] -- Detecting CXX compile features
+[1.069s] -- Detecting CXX compile features - done
+[1.071s] -- Found ament_cmake: 0.7.6 (/opt/ros/dashing/share/ament_cmake/cmake)
+[1.096s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.6.9", minimum required is "3") 
+[1.097s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.271s] -- Found rclcpp: 0.7.16 (/opt/ros/dashing/share/rclcpp/cmake)
+[1.287s] -- Found rosidl_adapter: 0.7.10 (/opt/ros/dashing/share/rosidl_adapter/cmake)
+[1.322s] -- Found rmw_implementation_cmake: 0.7.2 (/opt/ros/dashing/share/rmw_implementation_cmake/cmake)
+[1.323s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.324s] -- Looking for pthread.h
+[1.408s] -- Looking for pthread.h - found
+[1.409s] -- Looking for pthread_create
+[1.484s] -- Looking for pthread_create - not found
+[1.484s] -- Looking for pthread_create in pthreads
+[1.547s] -- Looking for pthread_create in pthreads - not found
+[1.548s] -- Looking for pthread_create in pthread
+[1.621s] -- Looking for pthread_create in pthread - found
+[1.622s] -- Found Threads: TRUE  
+[1.660s] -- Found ament_lint_auto: 0.7.12 (/opt/ros/dashing/share/ament_lint_auto/cmake)
+[1.733s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[1.734s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.735s] -- Configured cppcheck include dirs: 
+[1.735s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.736s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.736s] -- Added test 'lint_cmake' to check CMake code style
+[1.737s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[1.738s] -- Added test 'uncrustify' to check C / C++ code style
+[1.739s] -- Added test 'xmllint' to check XML markup files
+[1.741s] -- Configuring done
+[1.749s] -- Generating done
+[1.750s] -- Build files have been written to: /home/dave/team/test_ws/build/my_robot_bringup
+[1.754s] Invoked command in '/home/dave/team/test_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake /home/dave/team/test_ws/src/my_robot_bringup -DCMAKE_INSTALL_PREFIX=/home/dave/team/test_ws/install/my_robot_bringup
+[1.758s] Invoking command in '/home/dave/team/test_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/my_robot_bringup -- -j4 -l4
+[1.802s] [35m[1mScanning dependencies of target global_parameter_server[0m
+[1.832s] [ 50%] [32mBuilding CXX object CMakeFiles/global_parameter_server.dir/src/global_parameter_server_node.cpp.o[0m
+[3.123s] [100%] [32m[1mLinking CXX executable global_parameter_server[0m
+[3.255s] [100%] Built target global_parameter_server
+[3.268s] Invoked command in '/home/dave/team/test_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/my_robot_bringup -- -j4 -l4
+[3.315s] Invoking command in '/home/dave/team/test_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/my_robot_bringup --target install -- -j4 -l4
+[3.378s] [100%] Built target global_parameter_server
+[3.400s] [36mInstall the project...[0m
+[3.411s] -- Install configuration: ""
+[3.411s] -- Installing: /home/dave/team/test_ws/install/my_robot_bringup/lib/my_robot_bringup/global_parameter_server
+[3.411s] -- Set runtime path of "/home/dave/team/test_ws/install/my_robot_bringup/lib/my_robot_bringup/global_parameter_server" to ""
+[3.411s] -- Installing: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/launch
+[3.412s] -- Installing: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/launch/my_robot.launch.py
+[3.412s] -- Installing: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/config
+[3.412s] -- Installing: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/config/global_params.yaml
+[3.412s] -- Installing: /home/dave/team/test_ws/install/my_robot_bringup/share/ament_index/resource_index/package_run_dependencies/my_robot_bringup
+[3.413s] -- Installing: /home/dave/team/test_ws/install/my_robot_bringup/share/ament_index/resource_index/parent_prefix_path/my_robot_bringup
+[3.413s] -- Installing: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.sh
+[3.414s] -- Installing: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.sh
+[3.414s] -- Installing: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.bash
+[3.414s] -- Installing: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.sh
+[3.414s] -- Installing: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.zsh
+[3.415s] -- Installing: /home/dave/team/test_ws/install/my_robot_bringup/share/ament_index/resource_index/packages/my_robot_bringup
+[3.415s] -- Installing: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig.cmake
+[3.415s] -- Installing: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig-version.cmake
+[3.415s] -- Installing: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/package.xml
+[3.419s] Invoked command in '/home/dave/team/test_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/my_robot_bringup --target install -- -j4 -l4

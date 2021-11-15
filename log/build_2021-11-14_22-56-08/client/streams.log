@@ -1,0 +1,30 @@
+[0.273s] Invoking command in '/home/dave/team/test_ws/src/client': PYTHONPATH=/home/dave/team/test_ws/install/client/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/client build --build-base /home/dave/team/test_ws/build/client/build install --prefix /home/dave/team/test_ws/install/client --record /home/dave/team/test_ws/build/client/install.log --single-version-externally-managed
+[0.522s] running egg_info
+[0.522s] writing ../../build/client/client.egg-info/PKG-INFO
+[0.523s] writing dependency_links to ../../build/client/client.egg-info/dependency_links.txt
+[0.523s] writing entry points to ../../build/client/client.egg-info/entry_points.txt
+[0.523s] writing requirements to ../../build/client/client.egg-info/requires.txt
+[0.524s] writing top-level names to ../../build/client/client.egg-info/top_level.txt
+[0.565s] reading manifest file '../../build/client/client.egg-info/SOURCES.txt'
+[0.566s] writing manifest file '../../build/client/client.egg-info/SOURCES.txt'
+[0.567s] running build
+[0.567s] running build_py
+[0.568s] copying client/client_node_setter.py -> /home/dave/team/test_ws/build/client/build/lib/client
+[0.568s] running install
+[0.569s] running install_lib
+[0.570s] copying /home/dave/team/test_ws/build/client/build/lib/client/client_node_setter.py -> /home/dave/team/test_ws/install/client/lib/python3.6/site-packages/client
+[0.571s] byte-compiling /home/dave/team/test_ws/install/client/lib/python3.6/site-packages/client/client_node_setter.py to client_node_setter.cpython-36.pyc
+[0.572s]   File "/home/dave/team/test_ws/install/client/lib/python3.6/site-packages/client/client_node_setter.py", line 43
+[0.572s]     else:
+[0.572s]        ^
+[0.572s] SyntaxError: invalid syntax
+[0.572s] 
+[0.572s] running install_data
+[0.573s] running install_egg_info
+[0.576s] removing '/home/dave/team/test_ws/install/client/lib/python3.6/site-packages/client-0.0.0-py3.6.egg-info' (and everything under it)
+[0.576s] Copying ../../build/client/client.egg-info to /home/dave/team/test_ws/install/client/lib/python3.6/site-packages/client-0.0.0-py3.6.egg-info
+[0.577s] running install_scripts
+[0.603s] Installing client_start script to /home/dave/team/test_ws/install/client/lib/client
+[0.603s] Installing client_start_s script to /home/dave/team/test_ws/install/client/lib/client
+[0.603s] writing list of installed files to '/home/dave/team/test_ws/build/client/install.log'
+[0.640s] Invoked command in '/home/dave/team/test_ws/src/client' returned '0': PYTHONPATH=/home/dave/team/test_ws/install/client/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/client build --build-base /home/dave/team/test_ws/build/client/build install --prefix /home/dave/team/test_ws/install/client --record /home/dave/team/test_ws/build/client/install.log --single-version-externally-managed

@@ -1,0 +1,10 @@
+[0.026s] Invoking command in '/home/dave/team/test_ws/build/client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/client -- -j4 -l4
+[0.052s] CMake Error at CMakeLists.txt:50:
+[0.052s]   Parse error.  Function missing ending ")".  End of file reached.
+[0.052s] 
+[0.052s] 
+[0.052s] -- Configuring incomplete, errors occurred!
+[0.053s] See also "/home/dave/team/test_ws/build/client/CMakeFiles/CMakeOutput.log".
+[0.053s] Makefile:208: recipe for target 'cmake_check_build_system' failed
+[0.055s] make: *** [cmake_check_build_system] Error 1
+[0.056s] Invoked command in '/home/dave/team/test_ws/build/client' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/client -- -j4 -l4

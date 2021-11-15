@@ -1,0 +1,8 @@
+/home/dave/team/test_ws/build/client/CMakeFiles/install/strip.dir
+/home/dave/team/test_ws/build/client/CMakeFiles/install/local.dir
+/home/dave/team/test_ws/build/client/CMakeFiles/test.dir
+/home/dave/team/test_ws/build/client/CMakeFiles/list_install_components.dir
+/home/dave/team/test_ws/build/client/CMakeFiles/uninstall.dir
+/home/dave/team/test_ws/build/client/CMakeFiles/edit_cache.dir
+/home/dave/team/test_ws/build/client/CMakeFiles/rebuild_cache.dir
+/home/dave/team/test_ws/build/client/CMakeFiles/install.dir

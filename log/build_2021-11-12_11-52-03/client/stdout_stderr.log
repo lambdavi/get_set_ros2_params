@@ -1,0 +1,8 @@
+CMake Error at CMakeLists.txt:50:
+  Parse error.  Function missing ending ")".  End of file reached.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/dave/team/test_ws/build/client/CMakeFiles/CMakeOutput.log".
+Makefile:208: recipe for target 'cmake_check_build_system' failed
+make: *** [cmake_check_build_system] Error 1

@@ -1,0 +1,5 @@
+make[2]: *** No rule to make target 'CMakeFiles/client.dir/build'.  Stop.
+CMakeFiles/Makefile2:99: recipe for target 'CMakeFiles/client.dir/all' failed
+make[1]: *** [CMakeFiles/client.dir/all] Error 2
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2

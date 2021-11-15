@@ -1,0 +1,2 @@
+[0.030s] Invoking command in '/home/dave/team/test_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/my_robot_bringup -- -j4 -l4
+[0.097s] [100%] Built target global_parameter_server

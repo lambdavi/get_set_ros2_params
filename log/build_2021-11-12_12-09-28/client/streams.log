@@ -1,0 +1,18 @@
+[0.026s] Invoking command in '/home/dave/team/test_ws/build/client': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/client -- -j4 -l4
+[0.062s] -- Found ament_cmake: 0.7.6 (/opt/ros/dashing/share/ament_cmake/cmake)
+[0.090s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.289s] -- Found rclpy: 0.7.11 (/opt/ros/dashing/share/rclpy/cmake)
+[0.290s] -- Found ament_lint_auto: 0.7.12 (/opt/ros/dashing/share/ament_lint_auto/cmake)
+[0.373s] -- Added test 'copyright' to check for copyright in CMake / C / C++ / Python code
+[0.374s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.374s] -- Added test 'lint_cmake' to check CMake code style
+[0.374s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.374s] -- Added test 'xmllint' to check XML markup files
+[0.377s] -- Configuring done
+[0.380s] CMake Error: CMake can not determine linker language for target: client
+[0.380s] CMake Error: Cannot determine link language for target "client".
+[0.385s] -- Generating done
+[0.385s] -- Build files have been written to: /home/dave/team/test_ws/build/client
+[0.385s] make: *** [cmake_check_build_system] Error 1
+[0.385s] Makefile:222: recipe for target 'cmake_check_build_system' failed
+[0.390s] Invoked command in '/home/dave/team/test_ws/build/client' returned '2': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/client -- -j4 -l4

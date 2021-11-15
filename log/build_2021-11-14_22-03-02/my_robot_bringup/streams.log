@@ -1,0 +1,24 @@
+[0.038s] Invoking command in '/home/dave/team/test_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/my_robot_bringup -- -j4 -l4
+[1.596s] [100%] Built target global_parameter_server
+[1.617s] Invoked command in '/home/dave/team/test_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/my_robot_bringup -- -j4 -l4
+[2.055s] Invoking command in '/home/dave/team/test_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/my_robot_bringup --target install -- -j4 -l4
+[2.686s] [100%] Built target global_parameter_server
+[2.758s] [36mInstall the project...[0m
+[2.846s] -- Install configuration: ""
+[2.852s] -- Up-to-date: /home/dave/team/test_ws/install/my_robot_bringup/lib/my_robot_bringup/global_parameter_server
+[2.862s] -- Up-to-date: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/launch
+[2.868s] -- Up-to-date: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/launch/my_robot.launch.py
+[2.869s] -- Up-to-date: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/config
+[2.871s] -- Up-to-date: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/config/global_params.yaml
+[2.888s] -- Up-to-date: /home/dave/team/test_ws/install/my_robot_bringup/share/ament_index/resource_index/package_run_dependencies/my_robot_bringup
+[2.890s] -- Up-to-date: /home/dave/team/test_ws/install/my_robot_bringup/share/ament_index/resource_index/parent_prefix_path/my_robot_bringup
+[2.898s] -- Up-to-date: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/environment/ament_prefix_path.sh
+[2.898s] -- Up-to-date: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/environment/path.sh
+[2.900s] -- Up-to-date: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.bash
+[2.900s] -- Up-to-date: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.sh
+[2.901s] -- Up-to-date: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/local_setup.zsh
+[2.904s] -- Up-to-date: /home/dave/team/test_ws/install/my_robot_bringup/share/ament_index/resource_index/packages/my_robot_bringup
+[2.906s] -- Up-to-date: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig.cmake
+[2.906s] -- Up-to-date: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/cmake/my_robot_bringupConfig-version.cmake
+[2.907s] -- Up-to-date: /home/dave/team/test_ws/install/my_robot_bringup/share/my_robot_bringup/package.xml
+[2.943s] Invoked command in '/home/dave/team/test_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/my_robot_bringup --target install -- -j4 -l4

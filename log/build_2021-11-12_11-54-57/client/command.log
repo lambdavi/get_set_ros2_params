@@ -1,0 +1,2 @@
+Invoking command in '/home/dave/team/test_ws/build/client': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/client -- -j4 -l4
+Invoked command in '/home/dave/team/test_ws/build/client' returned '2': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/client -- -j4 -l4

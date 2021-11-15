@@ -1,0 +1,8 @@
+[0.050s] Invoking command in '/home/dave/team/test_ws/build/client': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/client -- -j4 -l4
+[0.315s] [35m[1mScanning dependencies of target client[0m
+[0.320s] make[2]: *** No rule to make target 'CMakeFiles/client.dir/build'.  Stop.
+[0.320s] make[1]: *** [CMakeFiles/client.dir/all] Error 2
+[0.320s] CMakeFiles/Makefile2:99: recipe for target 'CMakeFiles/client.dir/all' failed
+[0.321s] make: *** [all] Error 2
+[0.322s] Makefile:140: recipe for target 'all' failed
+[0.323s] Invoked command in '/home/dave/team/test_ws/build/client' returned '2': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/client -- -j4 -l4
