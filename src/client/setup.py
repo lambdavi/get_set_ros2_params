@@ -23,6 +23,7 @@ setup(
         	'client_start_g = client.client_node_getter:main',
 		    'client_start_s = client.client_node_setter:main',
             'client_start = client.client_node:main',
+            'client_start2 = client.client_node2:main',
         ],
     },
 )

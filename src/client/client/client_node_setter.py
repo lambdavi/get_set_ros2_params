@@ -13,15 +13,12 @@ class MinimalClientAsync(Node):
         while not self.cli.wait_for_service(timeout_sec=1.0):
             self.get_logger().info('service not available, waiting again...')
         self.req = None
-
     def send_request(self):
         self.req = SetParameters.Request()
 
         new_param_value = ParameterValue(type=ParameterType.PARAMETER_BOOL, bool_value=True)
-        self.req.parameters = [Parameter(name='my_global_param', value=new_param_value)]
+        self.req.parameters = [Parameter(name='my_global_param2', value=new_param_value)]
         
-        #self.req.parameters.append(param)
-
 
         self.future = self.cli.call_async(self.req)
 
