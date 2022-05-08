@@ -1,9 +1,0 @@
-/home/dave/team/test_ws/build/my_robot_bringup/CMakeFiles/install/strip.dir
-/home/dave/team/test_ws/build/my_robot_bringup/CMakeFiles/install.dir
-/home/dave/team/test_ws/build/my_robot_bringup/CMakeFiles/global_parameter_server.dir
-/home/dave/team/test_ws/build/my_robot_bringup/CMakeFiles/uninstall.dir
-/home/dave/team/test_ws/build/my_robot_bringup/CMakeFiles/install/local.dir
-/home/dave/team/test_ws/build/my_robot_bringup/CMakeFiles/test.dir
-/home/dave/team/test_ws/build/my_robot_bringup/CMakeFiles/list_install_components.dir
-/home/dave/team/test_ws/build/my_robot_bringup/CMakeFiles/edit_cache.dir
-/home/dave/team/test_ws/build/my_robot_bringup/CMakeFiles/rebuild_cache.dir

@@ -1,5 +1,0 @@
-  File "/home/dave/team/test_ws/install/client/lib/python3.6/site-packages/client/client_node.py", line 37
-    rclpy.Parameter.Type.STRING,,
-                                ^
-SyntaxError: invalid syntax
-

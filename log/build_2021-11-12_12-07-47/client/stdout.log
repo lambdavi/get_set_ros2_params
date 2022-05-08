@@ -1,3 +1,0 @@
-[35m[1mScanning dependencies of target client[0m
-CMakeFiles/Makefile2:99: recipe for target 'CMakeFiles/client.dir/all' failed
-Makefile:140: recipe for target 'all' failed

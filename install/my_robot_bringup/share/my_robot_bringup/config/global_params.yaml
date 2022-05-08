@@ -1,4 +1,0 @@
-global_parameter_server:
-  ros__parameters:
-    my_global_param: "test"
-    my_global_param2: False

@@ -1,6 +1,0 @@
-Invoking command in '/home/dave/team/test_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake /home/dave/team/test_ws/src/my_robot_bringup -DCMAKE_INSTALL_PREFIX=/home/dave/team/test_ws/install/my_robot_bringup
-Invoked command in '/home/dave/team/test_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake /home/dave/team/test_ws/src/my_robot_bringup -DCMAKE_INSTALL_PREFIX=/home/dave/team/test_ws/install/my_robot_bringup
-Invoking command in '/home/dave/team/test_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/my_robot_bringup -- -j4 -l4
-Invoked command in '/home/dave/team/test_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/my_robot_bringup -- -j4 -l4
-Invoking command in '/home/dave/team/test_ws/build/my_robot_bringup': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/my_robot_bringup --target install -- -j4 -l4
-Invoked command in '/home/dave/team/test_ws/build/my_robot_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/my_robot_bringup --target install -- -j4 -l4

@@ -1,5 +1,0 @@
-  File "/home/dave/team/test_ws/install/client/lib/python3.6/site-packages/client/client_node_setter.py", line 43
-    else:
-       ^
-SyntaxError: invalid syntax
-

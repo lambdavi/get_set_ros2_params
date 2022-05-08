@@ -1,6 +1,0 @@
-Invoking command in '/home/dave/team/test_ws/build/client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/dashing /usr/bin/cmake /home/dave/team/test_ws/src/client -DCMAKE_INSTALL_PREFIX=/home/dave/team/test_ws/install/client
-Invoked command in '/home/dave/team/test_ws/build/client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/dashing /usr/bin/cmake /home/dave/team/test_ws/src/client -DCMAKE_INSTALL_PREFIX=/home/dave/team/test_ws/install/client
-Invoking command in '/home/dave/team/test_ws/build/client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/client -- -j4 -l4
-Invoked command in '/home/dave/team/test_ws/build/client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/client -- -j4 -l4
-Invoking command in '/home/dave/team/test_ws/build/client': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/client --target install -- -j4 -l4
-Invoked command in '/home/dave/team/test_ws/build/client' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/dashing /usr/bin/cmake --build /home/dave/team/test_ws/build/client --target install -- -j4 -l4
