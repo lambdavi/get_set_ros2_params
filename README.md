@@ -1,4 +1,4 @@
-# get_set_ros2_params
+# Global Parameter Server node
 ## Steps to test:
 1. Create a new workspace (mkdir new_ws)
 2. Clone this repo
